@@ -15,7 +15,7 @@
     "express": "^4.18.2",
     "lodash": "^4.17.21",
     "math-utils-local": "file:local-packages/math-utils-local",
-    "mongodb": "^2.2.36",
+    "mongodb": "^3.0.0",
     "string-helpers-local": "file:local-packages/string-helpers-local"
   }
 }
